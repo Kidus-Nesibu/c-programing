@@ -1,2 +1,1 @@
-# c-programing
-this is my personal c projects 
+this is my c programing languge tutorial project repository
