@@ -1,1 +1,1 @@
-this is my c programing languge tutorial project repository
+This is my C-programming project.
